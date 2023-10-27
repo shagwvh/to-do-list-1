@@ -1,0 +1,9 @@
+Backend/node_modules
+node_modules/
+
+
+# Ignore client-side Node.js modules
+client/to-do-list/node_modules/
+
+# Ignore server-side Node.js modules
+server/node_modules/
